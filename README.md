@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-    <img src="banner.png" alt="Banner (oscuro)" />
+    <img src="images/banner.png" alt="Banner (oscuro)" />
     </p>
     <p align="left">
     <a href="/languages/README-en.md">English</a> · <b>Español</b>
@@ -10,19 +10,22 @@
 
 <br>
 
-# Hello Friend. I'm ibl4zqu3z 👋 
+# Hola! Soy ibl4zqu3z 👋
 
-Soy **hacker ético**.
+Soy **hacker ético**, aunque también soy un **educador en ciberseguridad** y un **activista del software libre**.
 
-Pero tambien soy un **educador en ciberseguridad** y un **activista del software libre**.
+Mis estudios "oficiales" son:
 
-Soy tecnico superior en administracion de sistemas y redes especializado en la ciberseguridad en entornos de los sitemas de informacion.
+- Técnico Superior en Administracion de Sistemas y Redes Informáticas.
+- Master de especialización en ciberseguridad de entornos en la tecnologia de informacion.
 
-Como hobby me apasionan los **CTF**.
+En todo lo demás he sido autodidacta.
+
+Y como hobby suelo hacer **CTF** y hago maquinas en diferentes plataformas.
 
 ## Tecnologías
 
-### Informática 
+### Informática
 
 | | |
 |-|-|
@@ -32,14 +35,12 @@ Como hobby me apasionan los **CTF**.
 | Sistemas operativos | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)|
 | IDE |![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)  |
 | Control de Versiones | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-|Ofimatica| ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)  |
+|Ofimática| ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)  |
 | Plataformas de publicacion | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) |
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-
-
 
 ![Static Badge](https://img.shields.io/badge/-red?style=for-the-badge&label=hashcat&color=ff0000)
 

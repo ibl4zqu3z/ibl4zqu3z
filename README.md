@@ -27,6 +27,15 @@ En todo lo demás he sido autodidacta.
 
 Y como hobby suelo hacer **CTF** y hago maquinas en diferentes plataformas.
 
+<div align="center">
+  <h2>👨‍💻 My Contributions 🙏</h2>
+  <br>
+    
+   ![Snake animation](https://raw.githubusercontent.com/iblazqu3z/ibl4zqu3z/output/github-contribution-grid-snake-dark.svg)
+  
+  <br/><br/>
+</div>
+
 ## Tecnologías con las que trabajo
 
 ### CiberSeguridad

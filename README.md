@@ -94,6 +94,21 @@ Y como hobby suelo hacer **CTF** y hago maquinas en diferentes plataformas.
     <td><b> Penetration Testing Process</b></td>
     <td><b> Vulnerability Assessment</b></td>
 </tr>
+<tr> 
+    <td align="center" style="width:120px;height:120px">
+    <img data-v-8b67b4b1="" src="https://academy.hackthebox.com/storage/badges/crude-but-effective.png" data-testid="badge-logo" alt="badge image" class="img-fluid">
+    </td>
+    <td align="center" style="width:120px;height:120px">
+    <img data-v-8b67b4b1="" src="https://academy.hackthebox.com/storage/badges/information-is-not-knowledge-or-is-it.png" data-testid="badge-logo" alt="badge image" class="img-fluid">
+    </td>
+    <td align="center" style="width:120px;height:120px">
+    </td>
+</tr>
+<tr> 
+    <td><b> Login Brute Forcing </b> </td>
+    <td><b> Information Gathering - Web Edition</b></td>
+    <td><b></b></td>
+</tr>
 </tbody>
 
 </table>

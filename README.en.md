@@ -110,8 +110,6 @@ CLI password and passphrase generator with configurable policies, ambiguous-char
 ### Portfolio / Website
 Personal site where I centralize experience, services, writeups, and technical projects.
 
-> Replace this section with direct links to your pinned repositories once you finish curating the profile.
-
 ---
 
 

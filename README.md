@@ -110,8 +110,6 @@ Generador CLI de contraseñas y passphrases seguras con políticas configurables
 ### Portfolio / Web
 Sitio personal donde centralizo experiencia, servicios, writeups y proyectos técnicos.
 
-> Sustituye esta sección por enlaces directos a tus repositorios fijados cuando termines de ordenar el perfil.
-
 ---
 
 ## Certificaciones

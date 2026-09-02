@@ -68,7 +68,6 @@ Incorporarme como pentester, consultor de ciberseguridad o profesional de seguri
 
 - Portafolio: [ibl4zqu3z.github.io](https://ibl4zqu3z.github.io)
 - LinkedIn: [Isaac Blázquez López](https://es.linkedin.com/in/isaac-blazquez-lopez)
-- Correo: [ibl4zqu3z@protonmail.com](mailto:ibl4zqu3z@protonmail.com)
 
 <!--
 

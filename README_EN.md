@@ -30,12 +30,11 @@ I am currently documenting additional case studies focused on web penetration te
 
 ## Certifications and Education
 
-* eJPTv2 — INE Security
-* CCEP
-* Cybersecurity Techniques and Methods — University of Alcalá, 30 ECTS
-* Cybersecurity Fundamentals — University of Alcalá, 30 ECTS
-* Professional Master's Programme in Cybersecurity for IT Environments
-* Higher Technician in Networked Computer Systems Administration
+- * eJPTv2 — INE Security
+- * CCEP (Certified Cybersecurity Educator Professional) - Red Team Leaders
+- * Master's Cybersecurity — University of Alcalá
+- * Professional Master's Programme in Cybersecurity for IT Environments
+- * Higher Technician in Networked Computer Systems Administration
 
 ## Tools and Technologies
 
